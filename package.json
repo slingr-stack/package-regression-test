@@ -31,7 +31,7 @@
         },
         {
             "name": "apiKey",
-            "label": "API Key",
+            "label": "API Key 437",
             "type": "text",
             "required": "config.authenticationMethod == 'apiKey'",
             "visibility": "config.authenticationMethod == 'apiKey'"

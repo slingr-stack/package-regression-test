@@ -9,3 +9,8 @@ exports.otherTest = function () {
 exports.configTest = function () {
     return config.get("webhooksSharedKey");
 }
+
+
+exports.otherTest437 = function () {
+    return "Test release 437";
+}
