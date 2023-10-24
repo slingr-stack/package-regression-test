@@ -1,13 +1,7 @@
 {
    "label": "Package Regression",
    "name": "packageRegression",
-   "dependencies": [
-       {
-           "type": "package",
-           "name": "packageRegression2",
-           "version": "v1.0.0"
-       }
-   ],
+   "dependencies": [],
    "configuration":[
         {
             "name": "authenticationMethod",
@@ -95,12 +89,12 @@
    "metadata": [
        {
            "type": "script",
-           "namespace": "api",
+           "namespace": "test",
            "path": "/scripts/test.js"
        },
        {
            "type": "script",
-           "namespace": "api",
+           "namespace": "test2",
            "path": "/scripts/test2.js"
        }
    ]
